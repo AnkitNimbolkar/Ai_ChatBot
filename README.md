@@ -1,5 +1,3 @@
-    # Gemini Utility Bot (Flask backend + React frontend scaffold)
-
     ## Overview
 
 
@@ -68,5 +66,3 @@
 
 
     - Make sure the backend is running before using the frontend.
-- Do NOT expose your GEMINI_API_KEY in the frontend or public repos.
-- If you prefer a simpler static frontend instead of React I can provide that too.
